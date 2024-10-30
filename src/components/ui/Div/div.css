@@ -1,0 +1,10 @@
+.container {
+    position: absolute;
+    margin-inline: auto;
+    inset-inline: 0;
+    inset-block-start: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
