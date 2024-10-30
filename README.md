@@ -2,6 +2,8 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/kg2ax475vmi2c85i?svg=true)](https://ci.appveyor.com/project/ArtKonX/ahj-homeworks-forms-popovers)
 
+[Ссылка на Github Pages](https://artkonx.github.io/ahj-homeworks-forms-popovers/)
+
 Правила сдачи задания:
 1. **Важно**: в рамках этого ДЗ вы можете использовать любой пакетный менеджер
 2. Всё должно собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages через Appveyor.
